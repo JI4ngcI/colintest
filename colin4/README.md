@@ -74,7 +74,7 @@ int main(void)
 ```
 
 ```bash
-	echo"数据回显"
+	echo "数据回显"
 ```
 
 
